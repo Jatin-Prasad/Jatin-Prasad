@@ -4,8 +4,6 @@
 <img align="right" alt="wait" width="400" src="https://w0.peakpx.com/wallpaper/477/346/HD-wallpaper-sung-jin-woo-sung-jin-woo-solo-leveling-igris-monarca-monarca-sombras.jpg">
 
 
-
-
 - 🔭 I’m currently working on **a Reactjs project**
 
 - 🌱 I’m currently learning **React ,WordPress**
@@ -14,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jatin-Prasad](https://github.com/Jatin-Prasad)
 
-- 💬 Ask me about **database, data structure and algorithm**
+- 💬 Ask me about **database, data structure and algorithm,OOPs**
 
 - 📫 How to reach me **jatin.official.1236@gmail.com**
 
@@ -22,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jatin prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin prasad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-prasad-b4386625b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-prasad-b4386625b/" height="30" width="40" /></a>
 <a href="https://instagram.com/jatin_prasad27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin_prasad27" height="30" width="40" /></a>
 </p>
 
