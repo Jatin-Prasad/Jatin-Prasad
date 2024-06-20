@@ -1,7 +1,9 @@
-![Header](./github-header-image(2).png)
+![logo](https://github.com/Jatin-Prasad/Jatin-Prasad/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Jatin Prasad</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align = "right" alt= "wait" width="400" src"https://images.app.goo.gl/6v5eRzzfKw6qqy7f7">
+<img align="right" alt="wait" width="400" src="https://w0.peakpx.com/wallpaper/477/346/HD-wallpaper-sung-jin-woo-sung-jin-woo-solo-leveling-igris-monarca-monarca-sombras.jpg">
+
+
 
 
 - 🔭 I’m currently working on **a Reactjs project**
