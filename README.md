@@ -1,6 +1,6 @@
 ![logo](https://github.com/Jatin-Prasad/Jatin-Prasad/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Jatin Prasad</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Coder from India</h3>
 <img align="right" alt="wait" width="400" src="https://w0.peakpx.com/wallpaper/477/346/HD-wallpaper-sung-jin-woo-sung-jin-woo-solo-leveling-igris-monarca-monarca-sombras.jpg">
 
 
